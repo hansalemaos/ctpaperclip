@@ -6,8 +6,8 @@
 
 ### Tutorial (Brazilian Portuguese)
 
-[![YT](https://i.ytimg.com/vi/UMKEiy7EGLE/maxresdefault.jpg)](https://www.youtube.com/watch?v=UMKEiy7EGLE)
-[https://www.youtube.com/watch?v=UMKEiy7EGLE]()
+[![YT](https://i.ytimg.com/vi/aGnbxd72P-E/maxresdefault.jpg)](https://www.youtube.com/watch?v=aGnbxd72P-E)
+[https://www.youtube.com/watch?v=aGnbxd72P-E]()
 
 This module is designed to cater to the needs of the people who frequently work with the clipboard and 
 require the ability to manipulate and transfer data in multiple formats. While other clipboard libraries 
