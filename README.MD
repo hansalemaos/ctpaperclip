@@ -4,6 +4,10 @@
 
 #### Tested against Windows 10 / Python 3.10 / Anaconda
 
+### Tutorial (Brazilian Portuguese)
+
+[![YT](https://i.ytimg.com/vi/UMKEiy7EGLE/maxresdefault.jpg)](https://www.youtube.com/watch?v=UMKEiy7EGLE)
+[https://www.youtube.com/watch?v=UMKEiy7EGLE]()
 
 This module is designed to cater to the needs of the people who frequently work with the clipboard and 
 require the ability to manipulate and transfer data in multiple formats. While other clipboard libraries 
